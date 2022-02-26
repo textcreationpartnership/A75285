@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ambitious tyrany clearely demonstrated; in Englands unhappy and confused government proposed to the serious consideration of those that may endeavour to remedie it, and not do ill, if they have not forgot to do well.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75285</idno>
+            <idno type="STC">Wing A2950</idno>
+            <idno type="STC">Thomason E988_3</idno>
+            <idno type="STC">ESTC R208053</idno>
+            <idno type="EEBO-CITATION">99867057</idno>
+            <idno type="PROQUEST">99867057</idno>
+            <idno type="VID">119347</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75285)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119347)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ambitious tyrany clearely demonstrated; in Englands unhappy and confused government proposed to the serious consideration of those that may endeavour to remedie it, and not do ill, if they have not forgot to do well.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the Year 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June. 17".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Government, Resistance to --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119347:1" rendition="simple:additions"/>
+            <p>Ambitious TYRANY, Clearely Demonſtrated; In ENGLANDS Vnhappy and confuſed Government Propoſed to the ſerious conſideration of thoſe that may endeavour to remedie it, and not do ill, if they have not forgot to do well.</p>
+            <p>Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:119347:2"/>
+            <p>VVHereas it is credibly reported, that your ſervants and vaſſals in <hi>Ireland,</hi> have not onely laboured with all their ſtrength, to raiſe and increaſe the exorbitant powers of the late Tyrant, but are are alſo ſtill active and deſigning to ſupport and maintain the ſame from its moſt deſerved ruines and deſtructions; to effect which, like State Juglers, they have obſcured their intentions, concealed their deſignes againſt you by a pretended compliance with you. And becauſe to patro<g ref="char:EOLhyphen"/>nize Tyranny in an unmasked ga<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b, would argue them to be murtherers of their Count<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey, they ſuggeſt another ground and foundation; where<g ref="char:EOLhyphen"/>upon to raiſe and build their quarrel more ſtrongly againſt you, and this we are informed they have done by their mock Commisſioners, ſent un<g ref="char:EOLhyphen"/>to you, or unto your Lieutenant Gen. <hi>Fleetwood.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Wherein we cannot but firſt obſerve their high (if not rebellious) preſumption, that ſervants ſhould dare, by deputed Commisſioners, to treat with their abſolute Lords and Maſters, whoſe duty it had been with halters about their necks, and with a penitential Pſalm in their hearts and tongues, to have prayed and begged as for their lives, your Honours mercy and pardon.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bject matter of their Commiſſion, is ſaid to have an act of indempnity, an act for union, the Arrearages of the Army paid off, and all ſales, bargains, contracts, leaſes, and promiſes for leaſes, had, made, contracted and promiſed ſince fifty three, that is, ſince their Tyrannical Apoſtacy, confirmed, ratified, and ſecured unto them againſt the Com<g ref="char:EOLhyphen"/>mon-wealth: all which is as much as to deſire that your mercy ſhould ſubvert your juſtice, and that their rebellions ſhould be the onely ſub<g ref="char:EOLhyphen"/>jects of your bounty. And whereas all governments in the world do re<g ref="char:EOLhyphen"/>ward ſubjects &amp; puniſh Traytors, yours in a contradiction to all muſt pu<g ref="char:EOLhyphen"/>niſh thoſe, and reward theſe; &amp; what can be the end of this? but in hopes of immunity and pardon to encourage tumultuous and rebellious ſpirits, until they have wreſted from you all powers either to pardon or to pu<g ref="char:EOLhyphen"/>niſh. 'Tis a moſt experienced truth that <hi>Etſi meliores ſunt quos ducit amor, tamen plures ſunt quos corrigit timor:</hi> little beloved, much feared <hi>O<g ref="char:EOLhyphen"/>liver</hi> will hold a Crown faſter then the moſt beloved and leſt dreaded <hi>Richard;</hi> the impresſions of fear upon the peoples hearts, are beſt cha<g ref="char:EOLhyphen"/>racters, whereby to read the laſtingneſs and ſtability of any Govern<g ref="char:EOLhyphen"/>ment; fear (reſult of power) is the very ſinews, life, ſoul, nay the all of all authorities in the wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld, and whoſoever indeavours to weaken or leſſen that doth unavoydably deſigne the deſtruction and ſubverſion of theſe: with what impudence and brazen foreheads, dare theſe Common<g ref="char:EOLhyphen"/>wealths Apoſtates, appear before your Honours? inſtead of congratula<g ref="char:EOLhyphen"/>ting
+<pb n="3" facs="tcp:119347:2"/>you thus to expoſtulate with you, inſtead of ſtrengthning your pow<g ref="char:EOLhyphen"/>er, thus to weaken your hands, and (rather then they will by a peniten<g ref="char:EOLhyphen"/>tial reſignation of themſelves expect your pardon and hope for your mercy) thus to provoke your juſtice, thus to contemne: your authority?</p>
+            <p>What doth this imply but to tranſmit rebellion unto their neigh<g ref="char:EOLhyphen"/>bors, and to teach others to do what ſhould not be done, becauſe theſe will not do what they ſhould: this ſpark of rebellion will by its native activity (if not ſuddenly quenched) ariſe into a flame, which once blaz<g ref="char:EOLhyphen"/>ing, will (we dare ſay) hazzard the drying up of the ditch betwixt them and us, rather then not transfer its deſtructive and devouring quality up<g ref="char:EOLhyphen"/>on us; &amp; who knows not <hi>Englands</hi> temper to be the exacteſt made tinder upon the firſt touch to kindle any ſpark of inſurrection, rebellions and tumults againſt you, which the hot headed ſpirits of the time may but gently ſtrike or let fall amongſt us. Therefore we moſt humbly conceive that it concerns the very life and ſoul of your authority, not to be impo<g ref="char:EOLhyphen"/>ſed upon by your vaſſals, nor to admit the leaſt capitulation from thoſe who had neither a being, nor a well being, but what they have derived from the indulgence of your ſoveraign powers. Are they Souldiers? is it not by the word of your Commisſion? Are they landed men? is it not from your moſt noble communerative diſpoſitions? and ſhall theſe who are the very feet, the moſt incondſiderable of all your creatures, thus kick againſt you? ſhall theſe declare to the world, that before they will be ſubject to your commands, they will have your honours to ſubmit unto their wills? ſhall theſe repreſent you more in conſiderable, then parents, then maſters, who expect and will have an abſolute obedi<g ref="char:EOLhyphen"/>ence from children and from ſervants; where then is the glory of all your former triumphs? hath not <hi>Neptune</hi> himſelf felt and trembled at the dreadfulneſs of yo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, whoſe waves have been ſo often dyed with the blood of your conquered enemies? where are all your martial at<g ref="char:EOLhyphen"/>chievements ſince 44 whereby <hi>Scotland</hi> hath been conquered, <hi>Ireland</hi> 
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dued, and our own nation delivered from the miſeries of a bloody and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivil war? are you who have been the ſupremeſt agents in the gran<g ref="char:EOLhyphen"/>deſt actions of the world, now become ſlaves to your ſervants and ſer<g ref="char:EOLhyphen"/>vants unto your ſlaves? will not thoſe trophies of victo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hung in <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> either bluſh at ſo great a metamorphoſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or elſe rejoyce to be<g ref="char:EOLhyphen"/>hold the authors of their captivity themſelves thus to be captivated? to invade the enemies country, when he hath invaded the heart of our own territories, ſeems a policy more full of danger then of ſafety: and yet rather then the Romans would have the glory of their common<g ref="char:EOLhyphen"/>wealths authority, and of their puiſſant armes darkned with the ru<g ref="char:EOLhyphen"/>mors
+<pb n="4" facs="tcp:119347:3"/>of being an halfe conquered people, they did attempt and effect it, they who ſcare themſelves with notions of dangers, and inconſiſten<g ref="char:EOLhyphen"/>cies at home (even unto a diſhonourable comportment with any) do but increaſe and multiply the dangers even at home and abroade, not roughly to handle your private or open enemy, is an invitation of him to abuſe you ſeverely; ſometimes indeed to complement an enemy in<g ref="char:EOLhyphen"/>to his own ruine, may be a ſaving of blood with honour, and a purchaſe of honour without blood, but it is a ſight moſt prepoſterous to behold the legiſlative power of three Nations through a puſillanimous temper, truckling under the ſtanding obſtinacy of their ſervants, who all the while lie upon their beds either taking their eaſe to expreſs their rebellious confidence or elſe laughing at the lowneſs of your condition to declare their malice againſt your perſons. But that we may more diſcover the vaſt incongruity betwixt your juſtice and their demands, that you ſhould admit of a complyance with your Iriſh <hi>Vaſſals,</hi> upon thoſe their terms, give us leave briefly to touch upon ſome of the propoſals themſelves. <label type="milestone">
+                  <seg type="milestoneunit">Prop. </seg>1</label> Firſt then they expect an act of indempnity, we would gladly know for what is it, for ſmall faults? for pardonable crimes? nay is it not for capital of<g ref="char:EOLhyphen"/>fences? and for the higheſt of theſe two? high treaſon it ſelf? have not you enacted it, to proclaim, publiſh, or any way to promote any per<g ref="char:EOLhyphen"/>ſon to be the chief Magiſtrate of <hi>England,</hi> of <hi>Ireland,</hi> &amp;c. ſhall be dee<g ref="char:EOLhyphen"/>med and adjudged a Traytor and an enemy to the Common-wealth.</p>
+            <p>And doth not the very ſquare of this law, if applyed to their actions, make them Traytors beyond all meaſure, how then dare their guiltineſs expect? how can your juſtice grant unto them an act of indempnity: which becauſe they have propoſed it indefinitely, and by the priority of its tender, ſuppoſed its neceſſity, logical conſtruction makes it uni<g ref="char:EOLhyphen"/>verſal; that is, for all treaſon, for all Traytors, againſt the Common<g ref="char:EOLhyphen"/>wealth, and what is this but to obſcure the glory of your Juſtice and to enervate the ſtrength of your lawes, and to render them weaker then cobwebs, not able to catch either the greater or the little flies. 'Tis confeſſed from the univerſality of a rebellion, juſtice many times ſatisfieth her ſelf with the puniſhment of ſome principal agents, but will never admit a univerſal baniſhment from a Nation, becauſe the crime ſhe muſt puniſh is become univerſal. This were to teach highway<g ref="char:EOLhyphen"/>men, robbers, traytors, and rebels, to juſtifie the wickedneſs of their actions by the multitudes of their perſons, and to conclude themſelves innocent becauſe numerous, let it therefore be conſidered that the end of vindictive Juſtice is to ſtrike a fear of offending into the hearts of all by the terrour of puniſhing a few, according to the rule <hi>paena ad paucos,
+<pb n="5" facs="tcp:119347:3"/>metus ad omnes perveniat:</hi> whereunto, if in this ſo dreadful an Apoſtaſie, you do not proportion your preſent actions, we are greatly afraid you will betray your own honor, and become unhandſome Executioners of your own Authority.</p>
+            <p>We acknowledge that Acts of Oblivion, Indempnity, or of Pardon, hath been the practice of all States and Republikes in the world; yet is it not very conſiderable whether by (as it were) a natural emmanation they proceed from the noble and frank inclinations of their Authors, or forc'd by them who would become the Subjects of, and take (for a time) ſome advantages by them; for if this laſt be the mother of them, we are confident they will weaken, not confirm the power; incourage, not prevent deſigns, and encreaſe, not ſedate the diſcontented ſpirits of the people: We might preſs you with this theological dilemma, that this Apoſtacy into Rebellion ſince 53. in your ſervants, was either evil or not, if evil, it is in its own nature puniſhable, and you ſtand indiſputa<g ref="char:EOLhyphen"/>bly obliged by the Laws of God to actuate the puniſhment; if it be not evil, then the righteouſneſs of your own moſt deſired authority would be queſtion'd, and your friends affections thereby weakned: Nor is there any reaſon to evade this argument (ſhould we inſiſt thereon) from the difference that is conceived betwixt things purely ſpiritual, and matters purely civil: For as this or that particular colour is of the ſame nature, though the ſubject of its inheſion be ſtone, wood, or iron, ſo all evil, or <hi>anomia,</hi> is one and the ſame in its eſſentials, only variated by the difference of its ſubjects, or objects; and if irregularity or evils be in themſelves puniſhable, then all evils inhering in any ſubject, conver<g ref="char:EOLhyphen"/>ſant about any object, is ſo too; for it is a real truth, <hi>a quotenus ad omnea valet conſequentia.</hi> But to wave this rugged way of argumentation, and to change the ſubject of the argument it ſelf, leſt while we are diſcour<g ref="char:EOLhyphen"/>ſing againſt the univerſality of an Act of Indempnity, or pardon, we are neceſſitated to obey your pardon, for the tedionſneſs of our diſcourſe it ſelf. <label type="milestone">
+                  <seg type="milestoneunit">Prop. </seg>2</label> And therefore be pleaſed to conſider the ſecond thing they de<g ref="char:EOLhyphen"/>mand, an Act of Union: Here the arrogancy of your impudent ſer<g ref="char:EOLhyphen"/>vants aſcends an higher degree, (if poſsible) to over-top your power, and to baffle your prudence; their own guiltineſs may ſeem to apologize (though not wholly excuſe) their capitulation with you for an Act of pardon and indempnity, but that theſe your guilty ſervants ſhould de<g ref="char:EOLhyphen"/>ſire you, who are their Judges and Maſters, to adopt them into your fa<g ref="char:EOLhyphen"/>mily, to imbrace them into the arms of your extraordinarie protection, and vouchſafe them to be the ſubjects of your chiefeſt favours, is ſuch a preſumption, that even ſimply to declare it, is a ſufficient aggravation of it.</p>
+            <pb n="6" facs="tcp:119347:4"/>
+            <p> Further, is it not a peculiar and ſoveraign prerogative inſeparably an<g ref="char:EOLhyphen"/>nexed to all authorities, to judge unto what ſocieties of men, unto what adjacent countries they will indulge an incorporation, or an union? how durſt then your vaſſals, by ſuch a propoſal, attempt to impoſe that upon you, whereof your ſelves muſt be the ſole Judges and Authors? it were worthy your conſideration to obſerve who theſe your creatures are that now are become ſo arrogant propoſers; are they not a multitude of men in arms? are they not your own Mercenary Army? from which abſtract that which we call reſolution and courage, and they are but a rour of people, an herd of cattel, or rather a ſilly flock of ſheep, very ſimple and inconſiderable beings, whom we hope you will reduce with as much eaſe and honour, as you have their fellow-creatures in <hi>England,</hi> whoſe hands (through your prudence) you have ſo tyed be<g ref="char:EOLhyphen"/>hind their backs, that they ſhall never be able (do what they now will or can) to lift them up againſt the face of your authoritie; with which the Nations (lately deſponding to have ever ſeen the maſterie of ſo un<g ref="char:EOLhyphen"/>rulie and turbulent a generation) are now revived, and tranſported to ſee the
+<note n="a" place="margin">See the Army ma<g ref="char:EOLhyphen"/>ſtered.</note> Day-ſtar of their libertie, long benighted with the darkneſs of tyrannie and confuſions, once more to ariſe in this their Engliſh Ho<g ref="char:EOLhyphen"/>rizon. To conclude then what we have to ſay in reference to this their ſecond propoſal, we admire no leſs at the arrogancie and ſimplicitie of the propoſers, then
+<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Laert. in vita ejus.</note> 
+               <hi>Anacharſis</hi> did amongſt the <hi>Grecians, imprudentes de imprudentibus judicantes;</hi> (or as <hi>Tertullian</hi>) <hi>non muſicos de muſicis,</hi> let the Souldier know how to handle his Sword and Pike, let him behave himſelf valiantlie in the fields of <hi>Mars,</hi> but let him ceaſe to preſume that either his dexteritie in the firſt, or corrage in the ſecond, ſhould render him forthwith a Son of <hi>Saturn,</hi> or (if you will) an accompliſhed States-man.</p>
+            <p n="3">3. <label type="milestone">
+                  <seg type="milestoneunit">Prop. </seg>3</label> Let's view their third propoſal, which is (ſaid) to have the arrear<g ref="char:EOLhyphen"/>ages of the Army paid off: Oh the humours of theſe men! the great<g ref="char:EOLhyphen"/>neſs of whoſe guilt (one would have thought) might juſtly have leſſen<g ref="char:EOLhyphen"/>ed, not heightned their demands: we ſee theſe your vaſſals are reſolved ſo ſtrictly to bind the arms of your juſtice, that you ſhall not be able to touch them with the hand, or leaſt finger thereof; had their repentance for their degeneration been cordial, they would willinglie have quitted the thoughts of their arrears, in hopes of their pardon, and ſo have re<g ref="char:EOLhyphen"/>joyced in the Redemption of their forfeited lives and fortunes, with the loſs of a few undeſerted arrears: what therefore is meant by all this? but that they will either have all, (even to the leaſt mite) which they demand from you. or you ſhall not have any thing from them that
+<pb n="7" facs="tcp:119347:4"/>in juſtice you ought to command: <label type="milestone">
+                  <seg type="milestoneunit">Prop. </seg>4</label> And this they moſt ſignificantlie ſpeak in the language of their fourth propoſal, that pleads for a confir<g ref="char:EOLhyphen"/>mation and ratification of all ſales, bargains, contracts, leaſes, and pro<g ref="char:EOLhyphen"/>miſes for leaſes, &amp;c. had made, contracted, and promiſed ſince 53. a<g ref="char:EOLhyphen"/>gainſt this Commonwealth: had they begged at your Honors hands the confirmation of &amp;c. of all ſales, contracts, leaſes, &amp;c. derived from your own authority before 53. they had appeared before your Honors with ſome face of juſtice, and ſome degree of modeſty, this might have been interpreted the payment of your ſervants their due wages, and proper hire, for which (it muſt be confeſſed) ſome have loſt their limbs, others their blood, and ſome their lives: And hereunto the for<g ref="char:EOLhyphen"/>mer experience of your heroick and generous tempers might have given unto them an incouragement, your Honors having been no leſs glorious in the conqueſts and victories by the Souldier obtained, then by your re<g ref="char:EOLhyphen"/>wards and medals upon them conferred. But to demand a confirmation of the things afore recited ſince 53. unto thoſe who were all in actual arms againſt you, ſcorning and trampling under their feet the above<g ref="char:EOLhyphen"/>mentioned Act, as if only ſet up by arabble of Boyes to ſcare Crowes, is no more then in good earneſt to ask a juſtification of tyranny it ſelf, the leaſt appearance whereof beareth ſo great a deformitie in the eyes of all noble Republike ſpirits, that they abhor the meaneſt ſhadow or remain<g ref="char:EOLhyphen"/>der thereof, even in things of an indifferent, and (in themſelves) of an indulgeable nature: Hence we know that when the ſpirit of (freedom, that is) a Commonwealth, hath once baniſhed a Tyrant, it demoliſheth and defaceth the Statues, images, &amp;c. of the Tyrant (if poſſibly) to bu<g ref="char:EOLhyphen"/>ry in the grave of perpetual darkneſs all <hi>repreſentations</hi> of ſo prodigious a <hi>creature;</hi> how then can you tolerate the name, title, power, (and there<g ref="char:EOLhyphen"/>by the intereſt) of the late Tyrants to remain, (and that upon) Record in all Fines, &amp;c. or Deeds inrolled, &amp;c. what more laſting monument can be erected for them, then to admit your Apoſtate vaſſals to enjoy their lands by a right derived from them? we omit the fraud and evil practiſe (as moſt notorious) in the purchaſe of thoſe lands, &amp;c. and in the acquiring of thoſe leaſes, all which will (we hope) hereafter require the juſtice of an impartial and diligent enquirie, and ſhall only ſay with ſubmiſſion unto your wiſdome, that as to all p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rchaſes, bargains, con<g ref="char:EOLhyphen"/>tracts, leaſes, &amp;c. ſince 53. it will be the honour of your juſtice not to confirm them, there being a Right neither in the Donor to grant, nor in the Donees to receive, and both apparently guiltie of High Treaſon, on<g ref="char:EOLhyphen"/>ly the greatneſs of their power hath prevented the juſtneſs of their at<g ref="char:EOLhyphen"/>tainder.</p>
+            <pb n="8" facs="tcp:119347:5"/>
+            <p> Having thus briefly glanced upon theſe four propoſals, in the laſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place we cannot but obſerve how ſubtillie, and with more then <hi>Achito<g ref="char:EOLhyphen"/>phels</hi> counſel theſe your ſervants have bottom'd and laid their deſign a<g ref="char:EOLhyphen"/>gainſt you. In contending for <hi>C. St.</hi> or <hi>R. P.</hi> the people were obſerved more cautelous then to ſhed one drop of blood; and therefore theſe moſt ſeriouſly, profound, and malignants States-men (deſignedly wa<g ref="char:EOLhyphen"/>ving thoſe intereſts) have drawn one more common and effectual inte<g ref="char:EOLhyphen"/>reſt upon the Stage, thereby to affect, cloſe, and invite all thoſe their diſcording parties and factions againſt you, (as is eaſily viſible to any diligent <hi>Obſervator</hi> of the propoſals) which can have no other aim or deſign then either to force you unto a moſt diſhonourable condiſcenti<g ref="char:EOLhyphen"/>on, or elſe to attempt open force againſt you: notwithſtanding we are confident, that if you preſerve the reputation of your juſtice in the for<g ref="char:EOLhyphen"/>mer, there are many ſo faithfully devoted unto your ſervice, that rather then they would behold you (the moſt noble <hi>Aſſertors</hi> of our Nations Freedome) neceſſitated by your moſt contemptible ſervants to act any thing unlike your ſelves, would hazard all to ſecure you againſt the ſe<g ref="char:EOLhyphen"/>cond.</p>
+            <p>It is the moſt ambitious deſires of all true Engliſh men, that neither by your fears, nor by your lenity, you ſhould introduce thoſe <hi>Saturnalia</hi> Feaſts, (unleſs upon a true Roman accompt) wherein your ſervants ſhall ſit at the Table, and you (their abſolute Soveraign Lords and Ma<g ref="char:EOLhyphen"/>ſters) with <hi>Trenchers</hi> in your hands, attend and wait upon them.</p>
+            <p>It will ſuffice, if you make all your Rebellious Apoſtates to know ſo much of your Authority, that (without any further diſputes) they may both hope for your clemency, and alſo dread your juſtice, for the moſt impartial preſervation of both. Theſe lines are now preſented unto, publike view, by the moſt unanimous conſent of many obliged to own you, faithful to ſerve you, and ready upon all occaſions to honour (and die for) you.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
